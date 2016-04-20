@@ -7,5 +7,3 @@ if a>0:
 else:
     print('no')
 print('你好')
-
-print('new text')
